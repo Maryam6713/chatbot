@@ -3,8 +3,7 @@ function toggleMode(){
     var chatBox = document.querySelector('.chat')
       chatBox.classList.toggle('dark-mode')
 
-      var textColor = document.querySelector('.bot .text')
-      textColor.classList.toggle('dark-text')
+      
 }
 
 //------cursor animation
